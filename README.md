@@ -1,6 +1,16 @@
 # Pharmaceutical Sales Analysis - Power BI
 <img width="2752" height="1536" alt="pharmaceutical_sales" src="https://github.com/user-attachments/assets/8df9bec5-9b25-44c6-922f-4cb9d8bc28bd" />
 
+## 📑 Table of Contents
+- [📌 Project Overview](#-project-overview)
+- [🎯 Project Objectives](#-project-objectives)
+- [📊 Dataset Overview](#-dataset-overview)
+- [🛠️ Workflow & Solution Approach](#-workflow--solution-approach)
+- [💻 Tools Used](#-tools-used)
+- [📈 Dashboard Reports](#-dashboard-reports)
+- [🔗 Live Dashboard & Demo](#-live-dashboard--demo)
+- [👇 Get in touch](#-get-in-touch)
+
 ## 📌 Project Overview
 Datamatrix-ml Pharmaceuticals is a leading pharmaceutical manufacturing company with a strong global presence. This project focuses on analyzing the sales data for the German and Polish markets. As the company conducts sales through appointed regional distributors rather than directly to end customers, this project leverages data-sharing agreements to access wholesale-to-retail transactions for deeper business insights.
 
@@ -31,6 +41,9 @@ The dataset represents wholesale-to-retail sales transactions sourced from autho
   <i>Image 1. Star Schema Data Modelling.</i>
 </p>
 
+## 💻 Tools Used
+*   **Microsoft Excel / Power Query:** Data cleaning, transformation, and initial preparation.
+*   **Microsoft Power BI:** Data modeling, visualization, and interactive reporting.
 
 ## 📈 Dashboard Reports
 The Power BI solution is divided into three main reporting pages:
@@ -54,10 +67,6 @@ The Power BI solution is divided into three main reporting pages:
   <br>
   <i>Image 4. Sales Team Performance Report.</i>
 </p>
-
-## 💻 Tools Used
-*   **Microsoft Excel / Power Query:** Data cleaning, transformation, and initial preparation.
-*   **Microsoft Power BI:** Data modeling, visualization, and interactive reporting.
 
 ## 🔗 Live Dashboard & Demo
 * **Public Dashboard:** [Power BI Service Link](https://app.powerbi.com/view?r=eyJrIjoiOTUwYmFjNTYtNjIxNi00YjgzLWExYzQtMWU4MTM3ZTc4ZDk4IiwidCI6IjFkNTE2OWFjLWM3Y2ItNDI3NS05NzY0LWJmOGM5YzM2NGE0YyIsImMiOjEwfQ%3D%3D)
